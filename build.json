@@ -1,0 +1,9 @@
+{
+	"id": "ip_api_com",
+	"version": "1.0",
+	"description": "IP-API.com Geolocation API",
+	"categories": [
+		"geolocation"
+	],
+	"compatible_from": "2017.1"
+}

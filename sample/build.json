@@ -1,0 +1,12 @@
+{
+	"id": "ip_api_com_sample",
+	"version": "1.0",
+	"description": "IP-API.com Sample",
+	"categories": [
+		"geolocation"
+	],
+	"compatible_from": "2017.1",
+	"dependencies": [
+		"ip_api_com"
+	]
+}
