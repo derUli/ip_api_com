@@ -3,7 +3,7 @@
 	"version": "1.0",
 	"embed": true,
 	"controllers": {
-		"IpApiComSample": "IpApiComSample.php"
+		"IpApiComExample": "IpApiComExample.php"
 	},
-	"main_class": "IpApiComSample"
+	"main_class": "IpApiComExample"
 }

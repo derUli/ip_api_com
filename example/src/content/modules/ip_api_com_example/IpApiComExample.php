@@ -1,6 +1,6 @@
 <?php
 
-class IpApiComSample extends Controller
+class IpApiComExample extends Controller
 {
 
     public function render()
